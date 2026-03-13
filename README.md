@@ -38,7 +38,7 @@
   <img src="https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I" alt="Proyecto smartBudget" width="150px"/>
 </a>
 <hr>
-<a href="https://github.com/maria-moya/">
+<a href="https://github.com/maria-moya/m5_abp">
   <p>Proyecto Gestor de tareas</p>
   <img src="https://fastly.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8" alt="Proyecto smartBudget" width="150px"/>
 </a>
