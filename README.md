@@ -43,7 +43,7 @@
   <img src="https://fastly.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8" alt="Proyecto smartBudget" width="150px"/>
 </a>
 <hr>
-<a href="https://github.com/maria-moya/">
+<a href="https://github.com/maria-moya/book-list-m6">
   <p>Proyecto BookList</p>
   <img src="https://fastly.picsum.photos/id/367/4928/3264.jpg?hmac=H-2OwMlcYm0a--Jd2qaZkXgFZFRxYyGrkrYjupP8Sro" alt="Proyecto smartBudget" width="150px"/>
 </a>
