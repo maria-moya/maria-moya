@@ -36,11 +36,18 @@
   <h5>SOLUCIÓN:</h5>
   <p>Se crea un sitio que permita al usuario ingresar, transferir y pueda visualizar los movimientos del dinero.</p>
   <h5>HERRAMIENTAS UTILIZADAS:</h5>
-  <p>Las herramientas que se utilizaron fue HTML, CSS, JavaScript y JQuery</p>
+  <p>Las herramientas que se utilizaron fue HTML, CSS, Bootstrap, JavaScript y JQuery</p>
   <h5>APRENDIZAJES:</h5>
-  <p></p>
+  <p>
+    - Manejo de ciclos y condicionales aplicados a interfaces gráficas.
+    - Comprensión avanzada de la jerarquía del DOM y cómo insertar elementos de manera eficiente.
+    - Validación de datos de entrada para prevenir errores en la renderización.
+  </p>
   <h5>MÉTRICAS DE IMPACTO:</h5>
-  <p></p>
+  <p>
+    - Eficiencia de renderizado: Generación instantánea del tablero tras la interacción del usuario.
+    - UX/UI: Mejora en la experiencia de usuario al permitir la visualización dinámica sin necesidad de recargar la página.
+  </p>
   <img src="https://fastly.picsum.photos/id/366/4000/3000.jpg?hmac=zphhHOH9ofToN2jNHd8z-nc98NrBd8y2okWXEXetLDg" alt="Proyecto smartBudget" width="150px"/>
 </a>
 
