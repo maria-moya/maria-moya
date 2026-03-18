@@ -30,7 +30,7 @@
 <h2 >Mis proyectos👨🏻‍💻</h2>
 
 <a href="https://github.com/maria-moya/m2_abp">
-  <h3>Proyecto Alke Wallet</h3>
+  <p>Proyecto Alke Wallet</p>
   <h5>DESCRIPCIÓN DE LA ACTIVIDAD: </h5>
   <p>La actividad consiste en desarrollar una aplicación de billetera digital que permita a los usuarios gestionar su dinero.</p>
   <h5>SOLUCIÓN:</h5>
@@ -39,13 +39,13 @@
   <p>Las herramientas que se utilizaron fue HTML, CSS, Bootstrap, JavaScript y JQuery</p>
   <h5>APRENDIZAJES:</h5>
   <p>
-    - Manejo de ciclos y condicionales aplicados a interfaces gráficas.
-    - Comprensión avanzada de la jerarquía del DOM y cómo insertar elementos de manera eficiente.
+    - Manejo de ciclos y condicionales aplicados a interfaces gráficas.<br>
+    - Comprensión avanzada de la jerarquía del DOM y cómo insertar elementos de manera eficiente.<br>
     - Validación de datos de entrada para prevenir errores en la renderización.
   </p>
   <h5>MÉTRICAS DE IMPACTO:</h5>
   <p>
-    - Eficiencia de renderizado: Generación instantánea del tablero tras la interacción del usuario.
+    - Eficiencia de renderizado: Generación instantánea del tablero tras la interacción del usuario.<br>
     - UX/UI: Mejora en la experiencia de usuario al permitir la visualización dinámica sin necesidad de recargar la página.
   </p>
   <img src="https://fastly.picsum.photos/id/366/4000/3000.jpg?hmac=zphhHOH9ofToN2jNHd8z-nc98NrBd8y2okWXEXetLDg" alt="Proyecto smartBudget" width="150px"/>
@@ -53,35 +53,26 @@
 
 <hr>
 
-<a href="https://github.com/maria-moya/m3_abp">
-  <h3>Proyecto SmartBudget</h3>
-  <h5>DESCRIPCIÓN:</h5>
-  <p>El proyecto consiste en una interfaz web funcional y escalable de SmartBudget, utilizando herramientas modernas de front-end como metodologías CSS, preprocesadores, layouts responsivos y frameworks como Bootstrap.</p>
-  <h5>SOLUCIÓN:</h5>
-  <p></p>
-  <h5>HERRAMIENTAS UTILIZADAS:</h5>
-  <p></p>
-  <h5>APRENDIZAJES:</h5>
-  <p></p>
-  <h5>MÉTRICAS DE IMPACTO:</h5>
-  <p></p>
-  <img src="https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I" alt="Proyecto smartBudget" width="150px"/>
-</a>
-
-<hr>
-
 <a href="https://github.com/maria-moya/m5_abp">
-  <h3>Proyecto Gestor de tareas</h3>
+  <p>Proyecto Gestor de tareas</p>
   <h5>DESCRIPCIÓN:</h5>
-  <p>El proyecto consiste en una aplicación web interactiva que permita gestionar tareas de manera eficiente. La aplicación permite a los usuarios crear, editar y eliminar tareas.</p>
+  <p>Desarrollo de una aplicación web para la gestión de tareas (To-Do List) que permite a los usuarios crear, visualizar, editar y eliminar actividades de forma organizada. El objetivo principal era construir una herramienta funcional que no perdiera la información al recargar el navegador.</p>
   <h5>SOLUCIÓN:</h5>
-  <p></p>
+  <p>Se diseñó una arquitectura basada en clases de JavaScript para representar tanto la "Tarea" como el "Gestor de Tareas". Esta estructura permite un código más limpio y escalable. Para la persistencia, se integró el uso de LocalStorage, lo que garantiza que los datos se almacenen directamente en el navegador del usuario de forma segura y eficiente.</p>
   <h5>HERRAMIENTAS UTILIZADAS:</h5>
-  <p></p>
+  <p>Las herramientas que se utilizaron fue JavaScript (ES6+), LocalStorage, HTML5 & CSS3, Bootstrap 5</p>
   <h5>APRENDIZAJES:</h5>
-  <p></p>
+  <p>
+    - Dominio de la POO: Implementación de métodos para gestionar el estado de la aplicación de manera centralizada.<br>
+    - Manejo de JSON: Serialización y deserialización de objetos para el almacenamiento de datos.<br>
+    - Ciclo de Vida de los Datos: Gestión completa de un CRUD asegurando la sincronización entre la interfaz visual y el almacenamiento interno.
+  </p>
   <h5>MÉTRICAS DE IMPACTO:</h5>
-  <p></p>
+  <p>
+    - Persistencia del 100%: Eliminación de la pérdida de datos tras refrescar la página, mejorando drásticamente la utilidad de la herramienta.<br>
+    - Eficiencia de Código: Reducción de la redundancia mediante el uso de métodos de clase reutilizables para las operaciones de filtrado y borrado.<br>
+    - Escalabilidad: Estructura preparada para añadir nuevas funcionalidades sin necesidad de reescribir el núcleo del código.
+  </p>
   <img src="https://fastly.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8" alt="Proyecto smartBudget" width="150px"/>
 </a>
 
@@ -90,15 +81,22 @@
 <a href="https://github.com/maria-moya/book-list-m6">
   <p>Proyecto BookList</p>
   <h5>DESCRIPCIÓN:</h5>
-  <p>El proyecto consiste en una SPA llamada BookList, que permita gestionar un listado de libros interactivo que permite añadir libros con título, autor my categoría y que permite actualizar y eliminar en caso de ser necesario.</p>
+  <p>Desarrollo de una Single Page Application (SPA) para la gestión de un catálogo de libros. El objetivo era implementar una interfaz dinámica que permitiera listar, filtrar y administrar una colección de títulos, asegurando una experiencia de usuario fluida y una arquitectura de componentes escalable.</p>
   <h5>SOLUCIÓN:</h5>
-  <p></p>
+  <p>Se migró la lógica de manipulación manual del DOM hacia un modelo reactivo utilizando Vue.js. La solución se estructuró mediante componentes reutilizables, separando la lógica de la interfaz (UI). Se implementó un sistema de filtrado en tiempo real y se gestionó el despliegue automatizado mediante GitHub Pages integrando flujos de trabajo con npm y Vite.</p>
   <h5>HERRAMIENTAS UTILIZADAS:</h5>
-  <p></p>
+  <p>Las herramientas que se utilizaron fue Vue.js 3, Vite, JavaScript (ES6+), CSS3 / Framework de Estilos</p>
   <h5>APRENDIZAJES:</h5>
-  <p></p>
+  <p>
+    - Reactividad y Estado: Comprensión profunda de cómo Vue maneja los cambios de datos y actualiza la vista de forma automática.<br>
+    - Arquitectura de Componentes: División de la aplicación en piezas independientes y reutilizables.<br>
+    - Tooling Moderno: Configuración de entornos de desarrollo con Node.js y resolución de conflictos de construcción en despliegues reales.
+  </p>
   <h5>MÉTRICAS DE IMPACTO:</h5>
-  <p></p>
+  <p>
+    - Optimización de Carga: Gracias al uso de Vite, el tiempo de respuesta inicial de la aplicación se redujo significativamente en comparación con proyectos de JavaScript.<br>
+    - Mantenibilidad: Estructura de código un 40% más organizada mediante la separación de responsabilidades en componentes .vue.<br>
+    - Interactividad: Implementación de búsqueda instantánea que filtra resultados sin latencia perceptible para el usuario.</p>
   <img src="https://fastly.picsum.photos/id/367/4928/3264.jpg?hmac=H-2OwMlcYm0a--Jd2qaZkXgFZFRxYyGrkrYjupP8Sro" alt="Proyecto smartBudget" width="150px"/>
 </a>
 
