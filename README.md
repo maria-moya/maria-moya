@@ -88,7 +88,7 @@
 <hr>
 
 <a href="https://github.com/maria-moya/book-list-m6">
-  <h3>Proyecto BookList</h3>
+  <p>Proyecto BookList</p>
   <h5>DESCRIPCIÓN:</h5>
   <p>El proyecto consiste en una SPA llamada BookList, que permita gestionar un listado de libros interactivo que permite añadir libros con título, autor my categoría y que permite actualizar y eliminar en caso de ser necesario.</p>
   <h5>SOLUCIÓN:</h5>
